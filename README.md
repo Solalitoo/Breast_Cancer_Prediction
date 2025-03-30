@@ -1,5 +1,5 @@
 # Intro   
-This notebook aims to analyse a [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/code/anandhuh/breast-cancer-prediction-accuracy-98-24/input) and give predictions about the diagnosis of further patients using machine learning models. 
+This notebook aims to analyze a [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/code/anandhuh/breast-cancer-prediction-accuracy-98-24/input) and give predictions about the diagnosis of further patients using machine learning models. 
 
 # Steps 
 1. Basic Data Exploration
